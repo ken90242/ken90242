@@ -1,5 +1,9 @@
-### Hi there 👋
 
+
+### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Hung--Kuang%20Han-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ken-han/)](https://www.linkedin.com/in/ken-han/)
+[![Gmail Badge](https://img.shields.io/badge/-hung--kuang.han%40sv.cmu.edu-red?style=flat&logo=Gmail&logoColor=white&link=mailto:hung-kuang.han@sv.cmu.edu)](mailto:hung-kuang.han@sv.cmu.edu)
+[![Gmail Badge](https://img.shields.io/badge/-Personal%20Website-black?style=flat&logo=WebdriverIO&logoColor=white&link=mailto:hung-kuang.han@sv.cmu.edu)](mailto:hung-kuang.han@sv.cmu.edu)
 
 My name is Hung-Kuang Han. I have a well-rounded background that spans software engineering.
 Currently, I am a CMU student who focuses on software engineering, and I have expertise with Python, JavaScript, SQL, Docker, k8s, and machine learning.
@@ -13,3 +17,24 @@ I received my B.S. from the Department of MIS at NCCU in June 2016 and M.S. from
 Please kindly send me an e-mail to ken90242@gmail.com or hung-kuang.han@sv.cmu.edu. Feel free to drop me a message on my Linkedin, if you find my qualifications fit your need.
 
 For more info regarding my portfolio or outside-work activities, please visit http://cv.ken-han.info 😀
+
+#### ✨ Personal Projects
+
+<a href="http://cv.ken-han.info/?project">
+    <img height="250em" src="http://cv.ken-han.info/image/projects/houzz-lighthouse-demo.gif" alt="prj1"/>
+    <img height="250em" src="http://cv.ken-han.info/image/projects/vaipt-processing-demo.gif" alt="prj2" />
+    <img height="250em" src="http://cv.ken-han.info/image/projects/cnode-web-app-demo.gif" alt="prj3"/>
+    <img height="250em" src="http://cv.ken-han.info/image/projects/china-unicom-object-detection.gif" alt="prj4" />
+    <img height="250em" src="http://cv.ken-han.info/image/projects/tellme-demo-1.gif" alt="prj5"/>
+</a>
+
+#### 🏆 GitHub Profile Stats
+[![Counter](https://gpvc.arturio.dev/ken90242)](https://gpvc.arturio.dev/ken90242)
+
+<a href="https://github.com/ken90242">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ken90242&show_icons=true&theme=algolia&count_private=true" alt="ken90242's github stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken90242&theme=algolia&layout=compact" alt="ken90242's github top languages" />
+</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ken90242&theme=algolia&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
