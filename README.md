@@ -33,7 +33,6 @@ For more info regarding my portfolio or outside-work activities, please visit ht
 <a href="http://cv.ken-han.info/?project">
     <img height="250em" src="http://cv.ken-han.info/image/projects/houzz-lighthouse-demo.gif" alt="prj1"/>
     <img height="250em" src="http://cv.ken-han.info/image/projects/vaipt-processing-demo.gif" alt="prj2" />
-    <img height="250em" src="http://cv.ken-han.info/image/projects/cnode-web-app-demo.gif" alt="prj3"/>
     <img height="250em" src="http://cv.ken-han.info/image/projects/china-unicom-object-detection.gif" alt="prj4" />
     <img height="250em" src="http://cv.ken-han.info/image/projects/tellme-demo-1.gif" alt="prj5"/>
 </a>
