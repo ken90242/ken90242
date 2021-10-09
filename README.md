@@ -18,16 +18,6 @@ Please kindly send me an e-mail to ken90242@gmail.com or hung-kuang.han@sv.cmu.e
 
 For more info regarding my portfolio or outside-work activities, please visit http://cv.ken-han.info 😀
 
-#### ✨ Personal Projects
-
-<a href="http://cv.ken-han.info/?project">
-    <img height="250em" src="http://cv.ken-han.info/image/projects/houzz-lighthouse-demo.gif" alt="prj1"/>
-    <img height="250em" src="http://cv.ken-han.info/image/projects/vaipt-processing-demo.gif" alt="prj2" />
-    <img height="250em" src="http://cv.ken-han.info/image/projects/cnode-web-app-demo.gif" alt="prj3"/>
-    <img height="250em" src="http://cv.ken-han.info/image/projects/china-unicom-object-detection.gif" alt="prj4" />
-    <img height="250em" src="http://cv.ken-han.info/image/projects/tellme-demo-1.gif" alt="prj5"/>
-</a>
-
 #### 🏆 GitHub Profile Stats
 [![Counter](https://gpvc.arturio.dev/ken90242)](https://gpvc.arturio.dev/ken90242)
 
@@ -38,3 +28,12 @@ For more info regarding my portfolio or outside-work activities, please visit ht
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ken90242&theme=algolia&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+#### ✨ Personal Projects
+<a href="http://cv.ken-han.info/?project">
+    <img height="250em" src="http://cv.ken-han.info/image/projects/houzz-lighthouse-demo.gif" alt="prj1"/>
+    <img height="250em" src="http://cv.ken-han.info/image/projects/vaipt-processing-demo.gif" alt="prj2" />
+    <img height="250em" src="http://cv.ken-han.info/image/projects/cnode-web-app-demo.gif" alt="prj3"/>
+    <img height="250em" src="http://cv.ken-han.info/image/projects/china-unicom-object-detection.gif" alt="prj4" />
+    <img height="250em" src="http://cv.ken-han.info/image/projects/tellme-demo-1.gif" alt="prj5"/>
+</a>
