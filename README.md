@@ -3,7 +3,7 @@
 ### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Hung--Kuang%20Han-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ken-han/)](https://www.linkedin.com/in/ken-han/)
 [![Gmail Badge](https://img.shields.io/badge/-hung--kuang.han%40sv.cmu.edu-red?style=flat&logo=Gmail&logoColor=white&link=mailto:hung-kuang.han@sv.cmu.edu)](mailto:hung-kuang.han@sv.cmu.edu)
-[![Gmail Badge](https://img.shields.io/badge/-Personal%20Website-black?style=flat&logo=WebdriverIO&logoColor=white&link=http://cv.ken-han.info/?project)](http://cv.ken-han.info/?project)
+[![Gmail Badge](https://img.shields.io/badge/-Personal%20Website-black?style=flat&logo=WebdriverIO&logoColor=white&link=https://cv.ken-han.wiki/?project)](https://cv.ken-han.wiki/?project)
 
 My name is Hung-Kuang Han. I have a well-rounded background that spans software engineering.
 Currently, I am a CMU student who focuses on software engineering, and I have expertise with Python, JavaScript, SQL, Docker, k8s, and machine learning.
@@ -16,7 +16,7 @@ I received my B.S. from the Department of MIS at NCCU in June 2016 and M.S. from
 
 Please kindly send me an e-mail to ken90242@gmail.com or hung-kuang.han@sv.cmu.edu. Feel free to drop me a message on my Linkedin, if you find my qualifications fit your need.
 
-For more info regarding my portfolio or outside-work activities, please visit http://cv.ken-han.info 😀
+For more info regarding my portfolio or outside-work activities, please visit https://cv.ken-han.wiki 😀
 
 #### 🏆 GitHub Profile Stats
 [![Counter](https://gpvc.arturio.dev/hungkuah2)](https://gpvc.arturio.dev/hungkuah2)
