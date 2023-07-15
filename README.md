@@ -19,7 +19,6 @@ Please kindly send me an e-mail to ken90242@gmail.com or hung-kuang.han@sv.cmu.e
 For more info regarding my portfolio or outside-work activities, please visit https://cv.ken-han.wiki 😀
 
 #### 🏆 GitHub Profile Stats
-[![Counter](https://gpvc.arturio.dev/hungkuah2)](https://gpvc.arturio.dev/hungkuah2)
 
 <a href="https://github.com/ken90242">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ken90242&show_icons=true&theme=algolia&count_private=true" alt="ken90242's github stats"/>
