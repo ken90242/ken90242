@@ -12,17 +12,7 @@ I received my B.S. from the Department of MIS at NCCU in June 2016 and M.S. from
 
 Please kindly send me an e-mail to ken90242[at]gmail.com or hungkuah[at]alumni.cmu.edu. Feel free to drop me a message on my Linkedin, if you find my qualifications fit your need.
 
-For more info regarding my portfolio or outside-work activities, please visit https://ken-han.dev 😀
-
-#### 🏆 GitHub Profile Stats
-
-<a href="https://github.com/ken90242">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ken90242&show_icons=true&theme=algolia&count_private=true" alt="ken90242's github stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken90242&theme=algolia&layout=compact" alt="ken90242's github top languages" />
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ken90242&theme=algolia&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
+For more info regarding my portfolio or outside-work activities, please visit https://ken-han.dev.
 
 #### ✨ Personal Projects
 <a href="http://cv.ken-han.info/?project">
