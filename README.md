@@ -1,6 +1,5 @@
 
 
-### Hi there 👋
 My name is Hung-Kuang Han. I have a well-rounded background that spans software engineering.
 Currently, I am a CMU student who focuses on software engineering, and I have expertise with Python, JavaScript, SQL, Docker, k8s, and machine learning.
 
